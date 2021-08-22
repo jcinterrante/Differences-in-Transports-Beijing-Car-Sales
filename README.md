@@ -9,4 +9,4 @@ That is precisely the analysis I carry out. I use the Diftrans package (https://
 
 is a method that compares two distributions and quantifies the difference between them. This difference is referred to as the "transport cost" -- as in the "cost" needed to "transport" the mass of one distribution to make its shape match with another. Diftrans attempts to find the minimal cost neeeded to transport the mass of one distribution such that it has the same shape as another distribution. It also corrects for trends over time, similar to a difference-in-differences estimator.
 
-My analysis finds strong evidence that the theorized black market is real, and finds a lower bound for its size.
+My analysis replicates a simplified version of Daljord et al.'s analysis and finds strong evidence that the theorized black market is real, and finds a lower bound for its size.
